@@ -1,5 +1,7 @@
 # mlops_pipeline_chest_cancer_clasification
 
+deep learning model that analyze images for chest cancer clasification
+
 ## Workflows
 
 1. Update config.yaml
@@ -11,3 +13,8 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml
+
+
+dvc for pipeline tracking
+
+model evaluation with mlflow integration for different experiments and managing stages
