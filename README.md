@@ -17,4 +17,4 @@ deep learning model that analyze images for chest cancer clasification
 
 dvc for pipeline tracking
 
-model evaluation with mlflow integration for different experiments and managing stages
+model evaluation with mlflow integration for different experiments and managing stages.
