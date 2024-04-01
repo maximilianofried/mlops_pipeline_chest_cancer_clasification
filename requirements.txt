@@ -1,4 +1,4 @@
-tensorflow
+tensorflow==2.13.0
 pandas
 gdown
 dvc
@@ -16,4 +16,4 @@ types-PyYAML
 scipy
 Flask
 Flask-Cors
--e .
+-e .2
